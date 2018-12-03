@@ -1,0 +1,5 @@
+My one DOM traversal was having the ingredients and instructions scroll down.
+ 
+My one CSS change was having the colors behind the insructions and ingredients change from yellow to orange when hovered over.
+
+My one animation/event was having my ingredients and instructions slide down. 
